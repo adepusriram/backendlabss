@@ -12,8 +12,8 @@ app.get("/", (req, res) => {
 // GET /about -> JSON with name and section
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "YOUR NAME",
-    section: "YOUR SECTION",
+    name: "ADEPU SRIRAM",
+    section: "CSE-GEN-AI 304",
   });
 });
 
