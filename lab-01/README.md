@@ -2,7 +2,7 @@
 
 **Name:** ADEPU SRIRAM · **Registration number:** 252U1R9003 · **Section:** CSE-GEN-AI 304
 
-**Live link:** PASTE PUBLIC URL HERE (or explain why the project could not be deployed and add Postman screenshots)
+**Live link:** https://backendlabss.onrender.com
 
 ## How to run
 
