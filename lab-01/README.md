@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express server
 
-**Name:** YOUR NAME · **Registration number:** YOUR REG NO · **Section:** YOUR SECTION
+**Name:** ADEPU SRIRAM · **Registration number:** 252U1R9003 · **Section:** CSE-GEN-AI 304
 
 **Live link:** PASTE PUBLIC URL HERE (or explain why the project could not be deployed and add Postman screenshots)
 
